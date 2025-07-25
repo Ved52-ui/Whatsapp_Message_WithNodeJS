@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WhatsApp Message Panel</title>
+</head>
+<body>
+  <h2>Send WhatsApp Message</h2>
+  <form id="msgForm">
+    <input type="text" id="number" placeholder="Phone Number (e.g., 919876543210)" required /><br><br>
+    <textarea id="message" placeholder="Your Message" required></textarea><br><br>
+    <button type="submit">Send</button>
+  </form>
+
+  <script>
+    document.getElementById('msgForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const number = document.getElementById('number').value.trim();
+      const message = document.getElementById('message').value.trim();
+
+      const res = await fetch('http://localhost:3000/send', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ number, message })
+      });
+
+      const result = await res.text();
+      alert(result);
+    });
+  </script>
+</body>
+</html>
