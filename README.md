@@ -12,3 +12,5 @@
        node index.js
        
 #### After Run Start The Server Do Not Close The Server Otherwise It Will Not Work
+
+## Index.js is Your Backend File And Index.html Is Your Frontend File
