@@ -36,4 +36,4 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com
+git clone https:
