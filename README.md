@@ -37,4 +37,3 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 
 ```bash
 git clone https://github.com/Ved52-ui/What
-cd whatsapp-sender
