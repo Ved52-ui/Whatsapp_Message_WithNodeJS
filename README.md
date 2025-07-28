@@ -36,5 +36,5 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/Ved52-ui/Whatsapp_Message_WithNode
+git clone https://github.com/Ved52-ui/Whatsapp_Message_With
 cd whatsapp-sender
