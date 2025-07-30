@@ -4,7 +4,7 @@ const express = require('express');
 const cors = require('cors');  // <--- I]]ortan
 
 const app = express();
-app.use(cors());               // <--- Allow frontend access
+app.use(cors());               // <--- Allow frontend acces
 app.use(express.json());
 
 const client = new Client();
