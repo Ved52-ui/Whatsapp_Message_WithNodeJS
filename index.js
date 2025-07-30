@@ -1,7 +1,7 @@
 const { Client } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const express = require('express');
-const cors = require('cors');  // <--- Important!
+const cors = require('cors');  // <--- Important
 
 const app = express();
 app.use(cors());               // <--- Allow frontend access
