@@ -8,7 +8,7 @@ Send WhatsApp messages to **any phone number** using a sleek HTML interface and 
 
 This project allows you to send WhatsApp messages directly from your browser.  
 It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to interact with WhatsApp Web and [`express`](https://expressjs.com/) to serve a simple frontend.
-the quick brown fox i 
+the quick brown fox 
 ---
 
 ## 🔧 Requirements
