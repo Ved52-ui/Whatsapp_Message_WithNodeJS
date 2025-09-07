@@ -28,7 +28,7 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 | `package.json` | Node dependencies and scripts |
 | `README.md` | You're reading it! 📖            |
 
----
+------
 
 
 
