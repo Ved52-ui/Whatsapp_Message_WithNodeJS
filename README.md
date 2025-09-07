@@ -17,7 +17,7 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 - ✅ Internet connection
 - ✅ Google Chrome or compatible browser
 - ✅ Any Browser
-
+- ✅ In LocalHost
 ---
 
 ## 📁 Files Included
