@@ -16,6 +16,7 @@ It uses [`whatsapp-web.js`](https://github.com/pedroslopez/whatsapp-web.js) to i
 - ✅ A valid WhatsApp account
 - ✅ Internet connection
 - ✅ Google Chrome or compatible browser
+- ✅ Any Browser
 
 ---
 
