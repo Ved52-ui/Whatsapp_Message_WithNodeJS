@@ -2,7 +2,7 @@
 -----------------------------------------------------
 Send WhatsApp messages to **any phone number** using a sleek HTML interface and powerful Node.js backend! 🚀
 
-mvkmf
+mvkm
 ## 📌 Overview
 
 This project allows you to send WhatsApp messages directly from your browser.  
